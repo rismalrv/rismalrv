@@ -4,3 +4,6 @@
 ![](https://github.com/rismalrv/github-stats/blob/master/generated/languages.svg)
 
 </a>
+
+
+![](https://github-readme-stats.vercel.app/api?username=rismalrv&show_icons=true&theme=radical)
